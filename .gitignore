@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore dynamic assets unless tracked with Git LFS
+Content/DynamicAssets/*
+
+# Allow static assets in Git (not ignored)
+!Content/StaticAssets/
