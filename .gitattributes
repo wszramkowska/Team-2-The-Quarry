@@ -1,0 +1,5 @@
+Content/DynamicAssets/*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/DynamicAssets/*.umap filter=lfs diff=lfs merge=lfs -text
+Content/DynamicAssets/*.fbx filter=lfs diff=lfs merge=lfs -text
+Content/DynamicAssets/*.wav filter=lfs diff=lfs merge=lfs -text
+Content/DynamicAssets/*.mp4 filter=lfs diff=lfs merge=lfs -text
